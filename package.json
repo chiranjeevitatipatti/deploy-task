@@ -2,7 +2,7 @@
   "name": "deploy-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://decoder-chiru.github.io/deploy-task/",
+  "homepage": "https://decoder-chiru.github.io/deploy-task",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
